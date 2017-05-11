@@ -28,5 +28,5 @@
 #### >提出了一个样本选取的手法，以及一个完整的鉴别眼球出血的网络
 ### 5.AggNet: Deep Learning From Crowds for Mitosis Detection in Breast Cancer Histology Images (冯浩哲)
 #### >讲了我们如何使用基于众包的数据来作为训练样本(如何巧妙地获取数据)
-### 6.Pulmonary Nodule Detection in CT Images: False Positive Reduction Using Multi-View Convolutional Networks(I) 
+### 6.Pulmonary Nodule Detection in CT Images: False Positive Reduction Using Multi-View Convolutional Networks(I) (冯浩哲)
 #### >一个完善的方法+一个完善的CT图像识别流程,对数据预先做的候选检测部分和如何选取视图方面有详细的介绍
