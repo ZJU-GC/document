@@ -17,6 +17,15 @@
 
 ### 1.Deep 3D Convolutional Encoder Networks With Shortcuts (张天平)
 ### 2.几篇用CNN做的分类论文 创新点总结 (张天平)
+#### 2.1	Deep Learning for the Classification of Lung Nodules
+##### 很普通的文献，没有讲候选检测，讲的是候选检测好的50*50图像拿来用CNN分类。
+#### 2.2 Contextual Convolutional Neural Networks for Lung Nodule Classification Using Gaussian Weighted Average Image Patches
+##### 用weighted average image patch的方法把3D的图像降维成2D，然后做CNN
+#### 2.3 Automated diagnosis of Lungs Tumor Using Segmentation Techniques
+##### 数据预处理部分：用Wiener Filter去噪/增强对比度,用CNN做分类和严重程度的判断,然后和经典方法：SVM，Bag，NB(朴素贝叶斯)，KNN，ELM和Adaboost进行了对比
+#### 2.4 Using Deep Learning for Pulmonary Nodule Detection & Diagnosis
+##### 主要创新点在于扩展数据集的方法，没什么内容。
+
 ### 3.候选检测所用到的几篇论文的总结 (冯浩哲)
 #### 3.1 A large-scale evaluation of automatic pulmonary nodule detection in chest CT using local image features and k-nearest-neighbour classification 
 ##### >使用传统的机器学习手法去检测结节,主要使用了局部图像特征和k-nearest聚类。对于结节的预检测使用了ShapeIndex以及Curveness的方法进行聚类.
