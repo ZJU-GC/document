@@ -30,3 +30,7 @@
 #### >讲了我们如何使用基于众包的数据来作为训练样本(如何巧妙地获取数据)
 ### 6.Pulmonary Nodule Detection in CT Images: False Positive Reduction Using Multi-View Convolutional Networks(I) (冯浩哲)
 #### >一个完善的方法+一个完善的CT图像识别流程,对数据预先做的候选检测部分和如何选取视图方面有详细的介绍
+### 7.Improving Computer-Aided Detection Using CNN(朱正茂)
+#### >创新点是以候选点为中心建立三视图，提取特征作为CNN的输入；候选检测则用三种疾病检测为例讲述了三种CAD候选检测方法（均非深度学习）。
+### 8.Multi-Instance Deep Learning(朱正茂)
+#### >第一步是利用多样例CNN选取代表性样例（候选区域），第二步是针对候选区域进行CNN分类。
