@@ -3,6 +3,5 @@
 
 ## 样例
 ### 1   Deep 3D Convolutional Encoder Networks With Shortcuts   张天平
-#### 论文总结
 ### 2   几篇用CNN做的分类论文 创新点总结                          张天平
 ### 3   Improving Computer-Aided Detection Using CNN            朱正茂
